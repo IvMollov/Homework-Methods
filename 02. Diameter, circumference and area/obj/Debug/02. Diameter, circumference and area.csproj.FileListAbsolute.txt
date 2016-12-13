@@ -1,0 +1,5 @@
+D:\Projects\Homework Methods\Homework Methods\02. Diameter, circumference and area\bin\Debug\_02.Diameter__circumference_and_area.exe.config
+D:\Projects\Homework Methods\Homework Methods\02. Diameter, circumference and area\bin\Debug\_02.Diameter__circumference_and_area.exe
+D:\Projects\Homework Methods\Homework Methods\02. Diameter, circumference and area\bin\Debug\_02.Diameter__circumference_and_area.pdb
+D:\Projects\Homework Methods\Homework Methods\02. Diameter, circumference and area\obj\Debug\_02.Diameter__circumference_and_area.exe
+D:\Projects\Homework Methods\Homework Methods\02. Diameter, circumference and area\obj\Debug\_02.Diameter__circumference_and_area.pdb

@@ -1,0 +1,5 @@
+D:\Projects\Homework Methods\Homework Methods\01. Cube of number\bin\Debug\_01.Cube_of_number.exe.config
+D:\Projects\Homework Methods\Homework Methods\01. Cube of number\bin\Debug\_01.Cube_of_number.exe
+D:\Projects\Homework Methods\Homework Methods\01. Cube of number\bin\Debug\_01.Cube_of_number.pdb
+D:\Projects\Homework Methods\Homework Methods\01. Cube of number\obj\Debug\_01.Cube_of_number.exe
+D:\Projects\Homework Methods\Homework Methods\01. Cube of number\obj\Debug\_01.Cube_of_number.pdb

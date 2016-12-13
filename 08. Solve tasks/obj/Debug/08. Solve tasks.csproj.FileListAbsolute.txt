@@ -1,0 +1,5 @@
+D:\Projects\Homework Methods\Homework Methods\08. Solve tasks\bin\Debug\_08.Solve_tasks.exe.config
+D:\Projects\Homework Methods\Homework Methods\08. Solve tasks\bin\Debug\_08.Solve_tasks.exe
+D:\Projects\Homework Methods\Homework Methods\08. Solve tasks\bin\Debug\_08.Solve_tasks.pdb
+D:\Projects\Homework Methods\Homework Methods\08. Solve tasks\obj\Debug\_08.Solve_tasks.exe
+D:\Projects\Homework Methods\Homework Methods\08. Solve tasks\obj\Debug\_08.Solve_tasks.pdb

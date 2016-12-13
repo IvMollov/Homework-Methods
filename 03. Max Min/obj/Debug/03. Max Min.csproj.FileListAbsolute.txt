@@ -1,0 +1,5 @@
+D:\Projects\Homework Methods\Homework Methods\03. Max Min\bin\Debug\_03.Max_Min.exe.config
+D:\Projects\Homework Methods\Homework Methods\03. Max Min\bin\Debug\_03.Max_Min.exe
+D:\Projects\Homework Methods\Homework Methods\03. Max Min\bin\Debug\_03.Max_Min.pdb
+D:\Projects\Homework Methods\Homework Methods\03. Max Min\obj\Debug\_03.Max_Min.exe
+D:\Projects\Homework Methods\Homework Methods\03. Max Min\obj\Debug\_03.Max_Min.pdb

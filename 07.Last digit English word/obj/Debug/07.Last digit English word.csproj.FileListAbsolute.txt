@@ -1,0 +1,5 @@
+D:\Projects\Homework Methods\Homework Methods\07.Last digit English word\bin\Debug\07.Last digit English word.exe.config
+D:\Projects\Homework Methods\Homework Methods\07.Last digit English word\bin\Debug\07.Last digit English word.exe
+D:\Projects\Homework Methods\Homework Methods\07.Last digit English word\bin\Debug\07.Last digit English word.pdb
+D:\Projects\Homework Methods\Homework Methods\07.Last digit English word\obj\Debug\07.Last digit English word.exe
+D:\Projects\Homework Methods\Homework Methods\07.Last digit English word\obj\Debug\07.Last digit English word.pdb
